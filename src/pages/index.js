@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Inter } from "@next/font/google";
 import styles from "@/styles/Home.module.css";
-import ToggleComponent from "./1- useToggle/toggleComponent";
+import ToggleComponent from "../1- useToggle/toggleComponent";
 
 const inter = Inter({ subsets: ["latin"] });
 
